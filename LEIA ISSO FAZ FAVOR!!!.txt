@@ -1,0 +1,6 @@
+Em primeiro lugar só quero dizer que eu estou sozinho na parte de conectividade,não que eu esteja usando isso como desculpa é claro.
+Falando do código e não o fiz usando mysql, achei melhor utilizar nenhum banco de dados pois não sei manusear o mysql é não queria fazer nenhuma besteira.
+O código em si só o servidor que está funcionando, a parte de cliente está exibindo isso, erro na conexão: received 1011 (internal error); then sent 1011(internal error)
+Caso você que esteja lendo quiser resolver, fique avontade.
+Lembrando que nem o chatgpt conseguiu resolvelo.
+No mais é isso, obrigado pelo compreensão:). 
